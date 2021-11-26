@@ -1,0 +1,113 @@
+{
+  "Rarity": 10,
+  "Tier": 2,
+  "InvasionTime": "NIGHT",
+  "InvasionPriority": "PRIMARY_ONLY",
+  "SpawningSystem": "DEFAULT",
+  "TimeModifier": "NONE",
+  "TimeChangeability": "DEFAULT",
+  "SeverityInfo": [
+    {
+      "SkyRenderer": {
+        "Brightness": 0.18
+      },
+      "MobSpawnList": [
+        {
+          "EntityType": "mutantbeasts:mutant_creeper",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_enderman",
+          "Weight": 3,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_skeleton",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_zombie",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        }
+      ],
+      "MobCapPercentage": 0.2,
+      "ForceNoSleep": false,
+      "TickDelay": 50
+    },
+    {
+      "SkyRenderer": {
+        "Brightness": 0.15
+      },
+      "MobSpawnList": [
+        {
+          "EntityType": "mutantbeasts:mutant_creeper",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_enderman",
+          "Weight": 3,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_skeleton",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_zombie",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        }
+      ],
+      "MobCapPercentage": 0.3,
+      "ForceNoSleep": false,
+      "TickDelay": 40
+    },
+    {
+      "SkyRenderer": {
+        "Brightness": 0.12
+      },
+      "MobSpawnList": [
+        {
+          "EntityType": "mutantbeasts:mutant_creeper",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_enderman",
+          "Weight": 3,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_skeleton",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "EntityType": "mutantbeasts:mutant_zombie",
+          "Weight": 4,
+          "MinCount": 1,
+          "MaxCount": 1
+        }
+      ],
+      "MobCapPercentage": 0.4,
+      "ForceNoSleep": false,
+      "TickDelay": 30
+    }
+  ]
+}
