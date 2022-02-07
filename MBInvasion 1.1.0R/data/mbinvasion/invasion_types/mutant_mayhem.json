@@ -6,6 +6,7 @@
   "SpawningSystem": "DEFAULT",
   "TimeModifier": "NONE",
   "TimeChangeability": "DEFAULT",
+  "WeatherType": "DEFAULT",
   "SeverityInfo": [
     {
       "SkyRenderer": {
@@ -39,7 +40,8 @@
       ],
       "MobCapPercentage": 0.2,
       "ForceNoSleep": false,
-      "TickDelay": 50
+      "TickDelay": 50,
+      "ClusterSize": 1
     },
     {
       "SkyRenderer": {
@@ -73,7 +75,8 @@
       ],
       "MobCapPercentage": 0.3,
       "ForceNoSleep": false,
-      "TickDelay": 40
+      "TickDelay": 40,
+      "ClusterSize": 1
     },
     {
       "SkyRenderer": {
@@ -107,7 +110,11 @@
       ],
       "MobCapPercentage": 0.4,
       "ForceNoSleep": false,
-      "TickDelay": 30
+      "TickDelay": 30,
+      "ClusterSize": 1
     }
+  ],
+  "Dimensions": [
+    "minecraft:overworld"
   ]
 }
