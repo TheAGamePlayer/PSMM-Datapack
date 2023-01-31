@@ -1,4 +1,4 @@
-# PSMB-Datapack
+# PSMB-Datapack (Archived until further notice)
 A Minecraft datapack adding a painful Mutant Beasts invasion to the Pure Suffering mod.
 Made for Pure Suffering version 1.3.1R for 1.16.5
 
