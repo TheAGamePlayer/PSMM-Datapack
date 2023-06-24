@@ -14,25 +14,25 @@
       },
       "MobSpawnList": [
         {
-          "EntityType": "mutantbeasts:mutant_creeper",
+          "EntityType": "mutantmonsters:mutant_creeper",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_enderman",
+          "EntityType": "mutantmonsters:mutant_enderman",
           "Weight": 3,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_skeleton",
+          "EntityType": "mutantmonsters:mutant_skeleton",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_zombie",
+          "EntityType": "mutantmonsters:mutant_zombie",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
@@ -49,25 +49,25 @@
       },
       "MobSpawnList": [
         {
-          "EntityType": "mutantbeasts:mutant_creeper",
+          "EntityType": "mutantmonsters:mutant_creeper",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_enderman",
+          "EntityType": "mutantmonsters:mutant_enderman",
           "Weight": 3,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_skeleton",
+          "EntityType": "mutantmonsters:mutant_skeleton",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_zombie",
+          "EntityType": "mutantmonsters:mutant_zombie",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
@@ -84,25 +84,25 @@
       },
       "MobSpawnList": [
         {
-          "EntityType": "mutantbeasts:mutant_creeper",
+          "EntityType": "mutantmonsters:mutant_creeper",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_enderman",
+          "EntityType": "mutantmonsters:mutant_enderman",
           "Weight": 3,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_skeleton",
+          "EntityType": "mutantmonsters:mutant_skeleton",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
         },
         {
-          "EntityType": "mutantbeasts:mutant_zombie",
+          "EntityType": "mutantmonsters:mutant_zombie",
           "Weight": 4,
           "MinCount": 1,
           "MaxCount": 1
