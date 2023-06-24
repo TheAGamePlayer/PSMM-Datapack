@@ -1,5 +1,5 @@
-# PSMB-Datapack (Archived until further notice)
-A Minecraft datapack adding a painful Mutant Beasts invasion to the Pure Suffering mod.
+# PSMM-Datapack
+A Minecraft datapack adding a painful Mutant Monsters invasion to the Pure Suffering mod.
 Made for Pure Suffering version 1.3.3.2R for 1.18.2
 
 Curseforge: https://www.curseforge.com/minecraft/customization/pure-suffering-mutant-beasts-invasion
