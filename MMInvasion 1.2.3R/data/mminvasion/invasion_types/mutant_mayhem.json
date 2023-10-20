@@ -1,0 +1,110 @@
+{
+	"DefaultName": "Mutant Mayhem",
+	"Rarity": 12,
+	"Tier": 4,
+	"InvasionTime": "NIGHT",
+	"SeverityInfo": [
+		{
+			"SkyRenderer": {
+				"Brightness": 0.18
+			},
+			"MobSpawnList": [
+				{
+					"EntityType": "mutantmonsters:mutant_creeper",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_enderman",
+					"Weight": 4,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_skeleton",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_zombie",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				}
+			],
+			"MobCapPercentage": 0.1,
+			"TickDelay": 60
+		},
+		{
+			"SkyRenderer": {
+				"Brightness": 0.15
+			},
+			"MobSpawnList": [
+				{
+					"EntityType": "mutantmonsters:mutant_creeper",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_enderman",
+					"Weight": 4,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_skeleton",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_zombie",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				}
+			],
+			"MobCapPercentage": 0.2,
+			"TickDelay": 45
+		},
+		{
+			"SkyRenderer": {
+				"Brightness": 0.12
+			},
+			"MobSpawnList": [
+				{
+					"EntityType": "mutantmonsters:mutant_creeper",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_enderman",
+					"Weight": 4,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_skeleton",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				},
+				{
+					"EntityType": "mutantmonsters:mutant_zombie",
+					"Weight": 5,
+					"MinCount": 1,
+					"MaxCount": 1
+				}
+			],
+			"MobCapPercentage": 0.3,
+			"TickDelay": 30
+		}
+	],
+	"Dimensions": [
+		"minecraft:overworld"
+	]
+}
